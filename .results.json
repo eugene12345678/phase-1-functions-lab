@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-25T04:54:38.438Z",
-    "end": "2024-06-25T04:54:38.775Z",
-    "duration": 337
+    "start": "2024-07-10T16:36:30.936Z",
+    "end": "2024-07-10T16:36:31.317Z",
+    "duration": 381
   },
   "tests": [
     {
@@ -69,7 +69,7 @@
     {
       "title": "returns distance when destination is below distance",
       "fullTitle": "index.js distanceTravelledInFeet() returns distance when destination is below distance",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -164,7 +164,7 @@
     {
       "title": "returns distance when destination is below distance",
       "fullTitle": "index.js distanceTravelledInFeet() returns distance when destination is below distance",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
